@@ -1,0 +1,23 @@
+{
+  "name": "crypto-shield-hd",
+  "version": "1.0.1",
+  "description": "Enhances crypto asset security with automated defenses and smart contract audits.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0problema/crypto-shield-hd"
+  },
+  "author": "0problema",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-watchtower": "1.0.0",
+    "ethers": "^5.4.0",
+    "solidity-coverage": "^0.7.16",
+    "truffle": "^5.3.6",
+    "axios": "^0.21.1",
+    "web3": "^1.3.5"
+  }
+}
